@@ -1,0 +1,21 @@
+//---------------------------------------------------------------------------------------------//
+ Adding all temporary functions from july 17 to 30.
+- sound effects
+- mechanics
+- Ui
+- Storyline = will be improve soon 
+- 2 ememies for temporary skeleton and zombie
+- zombie function
+- player function
+- skeleton function
+- organize folders
+- music folders
+- java file folders = this file contains the all function in the game environment
+//---------------------------------------------------------------------------------------------//
+Creating the Creeper function section
+-Attacks
+-sound effect
+-sound theme 
+- player attack
+- mechanics
+//---------------------------------------------------------------------------------------------//
